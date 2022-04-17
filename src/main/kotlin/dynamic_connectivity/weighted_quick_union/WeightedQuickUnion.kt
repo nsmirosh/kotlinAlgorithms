@@ -1,4 +1,4 @@
-package weighted_quick_union
+package dynamic_connectivity.weighted_quick_union
 
 class WeightedQuickUnion(n: Int) {
 
@@ -18,7 +18,6 @@ class WeightedQuickUnion(n: Int) {
 
         return result
     }
-
 
         /*
          chase pointers until you reach the root

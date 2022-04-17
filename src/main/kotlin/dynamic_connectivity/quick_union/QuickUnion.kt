@@ -1,4 +1,4 @@
-package quick_union
+package dynamic_connectivity.quick_union
 
 class QuickUnion(n: Int) {
 

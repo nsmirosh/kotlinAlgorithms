@@ -1,4 +1,4 @@
-import quick_find.QuickFind
+import dynamic_connectivity.quick_find.QuickFind
 
 
 fun main(args: Array<String>) {

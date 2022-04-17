@@ -1,4 +1,4 @@
-package quick_find
+package dynamic_connectivity.quick_find
 
 class QuickFind(n: Int) {
 

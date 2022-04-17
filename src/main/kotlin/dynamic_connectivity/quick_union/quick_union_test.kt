@@ -1,4 +1,4 @@
-import quick_union.QuickUnion
+import dynamic_connectivity.quick_union.QuickUnion
 
 
 fun main(args: Array<String>) {
